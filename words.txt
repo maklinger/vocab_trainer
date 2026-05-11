@@ -99,3 +99,354 @@ word_id,german,english,dutch,spanish
 98,Manchettenknopf,cufflink,manchetknoop,gemelo
 99,Strickjacke,cardigan,vest,cárdigan
 100,Schiebermütze,flat cap,pet,gorra plana
+101,Serendipität,serendipity,serendipiteit,serendipia
+102,Ineffabel,ineffable,onuitsprekelijk,inefable
+103,Ephemer,ephemeral,efemeer,efímero
+104,Mellifluis,mellifluous,welluidend,melifluo
+105,Liminal,liminal,liminaal,liminal
+106,Überschwänglich,ebullient,uitbundig,eufórico
+107,Vorliebe,penchant,voorliefde,predilección
+108,Weise,sagacious,wijs,sagaz
+109,Eifer,alacrity,bereidwilligheid,presteza
+110,Fülle,plenitude,overvloed,plenitud
+111,Zweideutig,ambiguous,dubbelzinnig,ambiguo
+112,Vergänglich,transient,vergankelijk,transitorio
+113,Unerschütterlich,steadfast,onwankelbaar,inquebrantable
+114,Weitschweifig,verbose,wijdlopig,verboso
+115,Nüchtern,sober,nuchter,sobrio
+116,Trübsinnig,melancholy,zwaarmoedig,melancólico
+117,Aufrichtig,candid,oprecht,cándido
+118,Scharfsinnig,astute,scherpzinnig,astuto
+119,Flüchtig,fleeting,vluchtig,fugaz
+120,Hartnäckig,tenacious,hardnekkig,tenaz
+121,Gleichmut,equanimity,gelijkmoedigheid,ecuanimidad
+122,Mitgefühl,empathy,empathie,empatía
+123,Zweideutigkeit,ambiguity,ambiguïteit,ambigüedad
+124,Bescheidenheit,humility,bescheidenheid,humildad
+125,Neugier,curiosity,nieuwsgierigheid,curiosidad
+126,Beharrlichkeit,perseverance,volharding,perseverancia
+127,Gelassenheit,composure,kalmte,compostura
+128,Scharfblick,perspicacity,scherpzinnigheid,perspicacia
+129,Wortgewandt,eloquent,welbespraakt,elocuente
+130,Treffend,apt,treffend,acertado
+131,Unbekümmert,nonchalant,nonchalant,despreocupado
+132,Nachdenklich,pensive,peinzend,pensativo
+133,Eigensinnig,obstinate,eigenzinnig,obstinado
+134,Aufgeweckt,perceptive,opmerkzaam,perspicaz
+135,Redselig,loquacious,spraakzaam,locuaz
+136,Zurückhaltend,reticent,terughoudend,reticente
+137,Einfühlsam,empathetic,invoelend,empático
+138,Weitblickend,farsighted,vooruitziend,previsor
+139,Unvoreingenommen,impartial,onbevooroordeeld,imparcial
+140,Tiefsinnig,profound,diepzinnig,profundo
+101,Serendipität,serendipity,serendipiteit,serendipia
+102,Ineffabel,ineffable,onuitsprekelijk,inefable
+103,Ephemer,ephemeral,efemeer,efímero
+104,Mellifluis,mellifluous,welluidend,melifluo
+105,Liminal,liminal,liminaal,liminal
+106,Überschwänglich,ebullient,uitbundig,eufórico
+107,Vorliebe,penchant,voorliefde,predilección
+108,Weise,sagacious,wijs,sagaz
+109,Eifer,alacrity,bereidwilligheid,presteza
+110,Fülle,plenitude,overvloed,plenitud
+111,Zweideutig,ambiguous,dubbelzinnig,ambiguo
+112,Vergänglich,transient,vergankelijk,transitorio
+113,Unerschütterlich,steadfast,onwankelbaar,inquebrantable
+114,Weitschweifig,verbose,wijdlopig,verboso
+115,Nüchtern,sober,nuchter,sobrio
+116,Trübsinnig,melancholy,zwaarmoedig,melancólico
+117,Aufrichtig,candid,oprecht,cándido
+118,Scharfsinnig,astute,scherpzinnig,astuto
+119,Flüchtig,fleeting,vluchtig,fugaz
+120,Hartnäckig,tenacious,hardnekkig,tenaz
+121,Gleichmut,equanimity,gelijkmoedigheid,ecuanimidad
+122,Mitgefühl,empathy,empathie,empatía
+123,Zweideutigkeit,ambiguity,ambiguïteit,ambigüedad
+124,Bescheidenheit,humility,bescheidenheid,humildad
+125,Neugier,curiosity,nieuwsgierigheid,curiosidad
+126,Beharrlichkeit,perseverance,volharding,perseverancia
+127,Gelassenheit,composure,kalmte,compostura
+128,Scharfblick,perspicacity,scherpzinnigheid,perspicacia
+129,Wortgewandt,eloquent,welbespraakt,elocuente
+130,Treffend,apt,treffend,acertado
+131,Unbekümmert,nonchalant,nonchalant,despreocupado
+132,Nachdenklich,pensive,peinzend,pensativo
+133,Eigensinnig,obstinate,eigenzinnig,obstinado
+134,Aufgeweckt,perceptive,opmerkzaam,perspicaz
+135,Redselig,loquacious,spraakzaam,locuaz
+136,Zurückhaltend,reticent,terughoudend,reticente
+137,Einfühlsam,empathetic,invoelend,empático
+138,Weitblickend,farsighted,vooruitziend,previsor
+139,Unvoreingenommen,impartial,onbevooroordeeld,imparcial
+140,Tiefsinnig,profound,diepzinnig,profundo
+141,Nieselregen,drizzle,motregen,llovizna
+142,Hagel,hail,hagel,granizo
+143,Tau,dew,dauw,rocío
+144,Frost,frost,vorst,escarcha
+145,Nebel,fog,mist,niebla
+146,Böe,gust,windvlaag,ráfaga
+147,Schauer,shower,bui,chubasco
+148,Sprühregen,mist/spray,spetterregen,calabobos
+149,Graupel,sleet,ijskorrels,aguanieve
+150,Dunst,haze,nevel,calima
+151,Reif,hoarfrost,rijp,escarcha blanca
+152,Windstille,calm/no wind,windstilte,calma chicha
+153,Hochdruckgebiet,high pressure zone,hogedrukgebied,anticiclón
+154,Tiefdruckgebiet,low pressure zone,lagedrukgebied,borrasca
+155,Luftfeuchtigkeit,humidity,luchtvochtigheid,humedad
+
+156,Dünsten,to steam,stomen,cocer al vapor
+157,Anbraten,to sear,aanbraden,sellar
+158,Köcheln,to simmer,sudderen,hervir a fuego lento
+159,Ablöschen,to deglaze,blussen,desglasar
+160,Einlegen,to marinate,marineren,marinar
+161,Blanchieren,to blanch,blancheren,blanquear
+162,Karamellisieren,to caramelise,karamelliseren,caramelizar
+163,Abschmecken,to season/taste,afproeven,sazonar
+164,Falten,to fold,vouwen,plegar
+165,Panieren,to bread/coat,paneren,empanar
+166,Reduzieren,to reduce,reduceren,reducir
+167,Würzen,to spice,kruiden,condimentar
+168,Aufschlagen,to whip,opkloppen,montar
+169,Glasieren,to glaze,glaceren,glasear
+170,Pochieren,to poach,pocheren,escalfar
+
+171,Kreuzung,junction/crossroads,kruispunt,cruce
+172,Einbahnstraße,one-way street,eenrichtingsweg,calle de sentido único
+173,Umleitung,diversion,omleiding,desvío
+174,Abzweigung,turn-off/fork,afslag,bifurcación
+175,Fußgängerzone,pedestrian zone,voetgangerszone,zona peatonal
+176,Unterführung,underpass,onderdoorgang,paso subterráneo
+177,Kreisverkehr,roundabout,rotonde,rotonda
+178,Sackgasse,dead end,doodlopende straat,callejón sin salida
+179,Bürgersteig,pavement/sidewalk,stoep,acera
+180,Zebrastreifen,zebra crossing,zebrapad,paso de cebra
+181,Ampel,traffic light,verkeerslicht,semáforo
+182,Abkürzung,shortcut,afkorting,atajo
+183,Gegenverkehr,oncoming traffic,tegemoetkomend verkeer,tráfico en sentido contrario
+184,Vorfahrt,right of way,voorrang,prioridad
+185,Parkverbot,no parking zone,parkeerverbod,prohibición de aparcamiento
+
+186,Eigenwillig,strong-willed,eigenwijs,testarudo
+187,Gutmütig,good-natured,goedaardig,bonachón
+188,Verschlossen,reserved/closed off,gesloten,reservado
+189,Lebhaft,vivacious,levendig,vivaz
+190,Grüblerisch,brooding,peinzend,caviloso
+191,Aufbrausend,hot-headed,opvliegend,irascible
+192,Besonnen,level-headed,bezonnen,sensato
+193,Hinterhältig,devious,achterbaks,solapado
+194,Warmherzig,warm-hearted,warmhartig,afectuoso
+195,Dickköpfig,stubborn,koppig,terco
+196,Freigeistig,free-spirited,vrijgeestig,espíritu libre
+197,Bodenständig,down-to-earth,nuchter/down-to-earth,con los pies en la tierra
+198,Launisch,moody,humeurig,temperamental
+199,Selbstgefällig,smug,zelfvoldaan,pagado de sí mismo
+200,Mitfühlend,compassionate,medelevend,compasivo
+
+201,Vertrauen,trust,vertrouwen,confianza
+202,Zuneigung,affection,genegenheid,cariño
+203,Eifersucht,jealousy,jaloezie,celos
+204,Geborgenheit,sense of security,geborgenheid,cobijo
+205,Sehnsucht,longing,verlangen,anhelo
+206,Enttäuschung,disappointment,teleurstelling,decepción
+207,Verbundenheit,bond/connection,verbondenheid,vínculo
+208,Misstrauen,mistrust,wantrouwen,desconfianza
+209,Zugehörigkeit,belonging,verbondenheid,pertenencia
+210,Bewunderung,admiration,bewondering,admiración
+211,Gleichgültigkeit,indifference,onverschilligheid,indiferencia
+212,Fürsorge,care,zorg,cuidado
+213,Rivalität,rivalry,rivaliteit,rivalidad
+214,Dankbarkeit,gratitude,dankbaarheid,gratitud
+215,Innigkeit,intimacy,innigheid,intimidad
+
+216,Eiche,oak,eik,roble
+217,Birke,birch,berk,abedul
+218,Buche,beech,beuk,haya
+219,Lärche,larch,lariks,alerce
+220,Holunder,elder,vlier,saúco
+221,Weide,willow,wilg,sauce
+222,Efeu,ivy,klimop,hiedra
+223,Farn,fern,varen,helecho
+224,Moos,moss,mos,musgo
+225,Distel,thistle,distel,cardo
+226,Brennnessel,stinging nettle,brandnetel,ortiga
+227,Löwenzahn,dandelion,paardenbloem,diente de león
+228,Schilf,reed,riet,caña
+229,Mistel,mistletoe,maretak,muérdago
+230,Ginster,gorse/broom,brem,retama
+
+231,Gewitter,thunderstorm,onweer,tormenta
+232,Blitz,lightning,bliksem,rayo
+233,Donner,thunder,donder,trueno
+234,Sturm,storm,storm,tempestad
+235,Orkan,hurricane,orkaan,huracán
+236,Tornado,tornado,tornado,tornado
+237,Schneesturm,blizzard,sneeuwstorm,ventisca
+238,Hagelschauer,hailstorm,hagelbui,granizada
+239,Sandsturm,sandstorm,zandstorm,tormenta de arena
+240,Springflut,spring tide,springtij,marea viva
+241,Überschwemmung,flood,overstroming,inundación
+242,Dürre,drought,droogte,sequía
+243,Hitzewelle,heatwave,hittegolf,ola de calor
+244,Kältewelle,cold snap,koudegolf,ola de frío
+245,Wetterleuchten,sheet lightning,weerlicht,relámpago
+
+246,Klippe,cliff,klif,acantilado
+247,Schlucht,gorge/ravine,kloof,barranco
+248,Gipfel,summit/peak,top,cima
+249,Hochebene,plateau,hoogvlakte,meseta
+250,Moor,moor/bog,veen,páramo
+251,Düne,dune,duin,duna
+252,Fjord,fjord,fjord,fiordo
+253,Gletscher,glacier,gletsjer,glaciar
+254,Steilhang,steep slope,steile helling,ladera escarpada
+255,Flussdelta,river delta,rivierdelta,delta fluvial
+256,Halbinsel,peninsula,schiereiland,península
+257,Lagune,lagoon,lagune,laguna
+258,Tundra,tundra,toendra,tundra
+259,Savanne,savannah,savanne,sabana
+260,Mündung,estuary/mouth,monding,desembocadura
+
+261,Sämig,creamy/thick,romig,cremoso
+262,Mehlig,floury/starchy,melig,harinoso
+263,Knackig,crunchy,knapperig,crujiente
+264,Zähflüssig,viscous,stroperig,viscoso
+265,Herb,bitter/tart,bitter,amargo
+266,Würzig,savoury/spiced,kruidig,sabroso
+267,Mürbe,crumbly/tender,kruimelig,tierno
+268,Pastinake,parsnip,pastinaak,chirivía
+269,Kohlrabi,kohlrabi,kohlrabi,colinabo
+270,Steckrübe,turnip/swede,koolraap,nabo
+271,Mangold,chard,snijbiet,acelga
+272,Fenchel,fennel,venkel,hinojo
+273,Lauch,leek,prei,puerro
+274,Artischocke,artichoke,artisjok,alcachofa
+275,Portulak,purslane,postelein,verdolaga
+
+276,Trenchcoat,trench coat,trenchcoat,gabardina
+277,Rollkragenpullover,turtleneck,coltrui,jersey de cuello alto
+278,Tweedjacke,tweed jacket,tweedjasje,chaqueta de tweed
+279,Latzhose,dungarees,tuinbroek,peto
+280,Wickelkleid,wrap dress,wikkeljurk,vestido cruzado
+281,Parka,parka,parka,parka
+282,Wollmantel,wool coat,wollen jas,abrigo de lana
+283,Seidenschal,silk scarf,zijden sjaal,pañuelo de seda
+284,Lederhandschuhe,leather gloves,leren handschoenen,guantes de cuero
+285,Stiefeletten,ankle boots,enkellaarzen,botines
+286,Loafer,loafers,loafers,mocasines
+287,Blazer,blazer,blazer,blazer
+288,Leinenhemd,linen shirt,linnen overhemd,camisa de lino
+289,Kaschmir,cashmere,kasjmier,cachemira
+290,Umhang,cape/cloak,cape,capa
+
+291,Spargel,asparagus,asperge,espárrago
+292,Rote Bete,beetroot,rode biet,remolacha
+293,Zuckerschote,sugar snap pea,peultje,tirabeque
+294,Grünkohl,kale,boerenkool,col rizada
+295,Radicchio,radicchio,radicchio,radicchio
+296,Pak Choi,bok choy,paksoi,pak choi
+297,Schwarzwurzel,salsify,schorseneer,salsifí
+298,Topinambur,Jerusalem artichoke,aardpeer,tupinambo
+299,Pak Choi,bok choy,paksoi,pak choi
+300,Rucola,rocket/arugula,rucola,rúcula
+301,Rosenkohl,Brussels sprout,spruitje,coles de Bruselas
+302,Wirsing,savoy cabbage,savooikool,col de Milán
+303,Zucchini,courgette,courgette,calabacín
+304,Aubergine,aubergine,aubergine,berenjena
+305,Staudensellerie,celery,bleekselderij,apio
+
+306,Quitte,quince,kweepeer,membrillo
+307,Mispel,medlar,mispel,níspero
+308,Schlehe,sloe,sleedoorn,endrino
+309,Holunderbeere,elderberry,vlierbes,baya de saúco
+310,Kumquat,kumquat,kumquat,kumquat
+311,Litschi,lychee,lychee,lichi
+312,Passionsfrucht,passion fruit,passievrucht,maracuyá
+313,Sternfrucht,star fruit,carambola,carambola
+314,Drachenfrucht,dragon fruit,drakenvrucht,pitahaya
+315,Stachelbeere,gooseberry,kruisbes,grosella
+316,Johannisbeere,blackcurrant,zwarte bes,grosella negra
+317,Brombeere,blackberry,braam,mora
+318,Preiselbeere,lingonberry,rode bosbes,arándano rojo
+319,Feige,fig,vijg,higo
+320,Granatapfel,pomegranate,granaatappel,granada
+
+321,Mistkäfer,dung beetle,mestkever,escarabajo pelotero
+322,Ohrwurm,earwig,oorworm,tijereta
+323,Bockkäfer,longhorn beetle,boktor,cerambícido
+324,Gottesanbeterin,praying mantis,bidsprinkhaan,mantis religiosa
+325,Hornisse,hornet,hoornaar,avispón
+326,Laufkäfer,ground beetle,loopkever,carábido
+327,Wasserläufer,pond skater,schaatsenrijder,zapatero
+328,Schmetterlingsei,butterfly egg,vlinderei,huevo de mariposa
+329,Maulwurfsgrille,mole cricket,veenmol,grillo topo
+330,Blattlaus,aphid,bladluis,pulgón
+331,Marienkäfer,ladybird,lieveheersbeestje,mariquita
+332,Libelle,dragonfly,libel,libélula
+333,Heuschrecke,grasshopper,sprinkhaan,saltamontes
+334,Tausendfüßler,centipede,duizendpoot,ciempiés
+335,Silberfischchen,silverfish,zilvervisje,lepisma
+
+336,Eisvogel,kingfisher,ijsvogel,martín pescador
+337,Wiedehopf,hoopoe,hop,abubilla
+338,Mauersegler,swift,gierzwaluw,vencejo
+339,Rotmilan,red kite,rode wouw,milano real
+340,Bekassine,snipe,watersnip,agachadiza
+341,Pirol,golden oriole,wielewaal,oropéndola
+342,Wendehals,wryneck,draaihals,torcecuello
+343,Blaumeise,blue tit,pimpelmees,herrerillo
+344,Dohle,jackdaw,kauw,grajilla
+345,Kranich,crane,kraanvogel,grulla
+346,Kiebitz,lapwing,kievit,avefría
+347,Habicht,goshawk,havik,azor
+348,Uhu,eagle owl,oehoe,búho real
+349,Teichrohrsänger,reed warbler,kleine karekiet,carricero común
+350,Schwarzkehlchen,stonechat,roodborsttapuit,tarabilla común
+
+351,Schimmern,to shimmer,glinsteren,relucir
+352,Aufwirbeln,to swirl up,opwervelen,arremolinarse
+353,Verblassen,to fade,vervagen,desvanecerse
+354,Auflodern,to flare up,opvlammen,llamear
+355,Rieseln,to trickle,kabbelen,manar
+356,Wabern,to waft/billow,walmend bewegen,ondular
+357,Gleiten,to glide,glijden,deslizarse
+358,Zerfließen,to dissolve/melt away,wegvloeien,disolverse
+359,Aufbranden,to surge/crash,opbruisen,irrumpir
+360,Schwingen,to oscillate/swing,zwaaien,oscilar
+361,Verströmen,to emanate/exude,uitstralen,emanar
+362,Aufsteigen,to rise/ascend,opstijgen,ascender
+363,Wirbeln,to swirl,wervelen,arremolinarse
+364,Verdämmern,to fade into dusk,vervagen in schemering,difuminarse
+365,Durchdringen,to permeate,doordringen,impregnar
+
+366,Leuchten,to glow/shine,gloeien,brillar
+367,Strahlungsfluss,radiation flux,stralingsflux,flujo de radiación
+368,Aufleuchten,to flash/light up,oplichten,destellar
+369,Aufglühen,to ignite/glow up,oplaaien,encenderse
+370,Wirbel,vortex,wervel,vórtice
+371,Strömung,flow/current,stroming,corriente
+372,Abstrahlung,emission/radiation,uitstraling,emisión
+373,Aufwallen,to well up/surge,opwellen,manar
+374,Schimmer,glimmer/shimmer,glinstering,destello
+375,Trübung,opacity/turbidity,troebeling,opacidad
+376,Brechung,refraction,breking,refracción
+377,Beugung,diffraction,diffractie,difracción
+378,Streuung,scattering,verstrooiing,dispersión
+379,Gezeitenkraft,tidal force,getijdenkracht,fuerza de marea
+380,Akkretionsscheibe,accretion disc,accretieschijf,disco de acreción
+
+381,Wattestäbchen,cotton bud,wattenstaafje,bastoncillo
+382,Nagelfeile,nail file,nagelvijl,lima de uñas
+383,Nagelknipser,nail clippers,nagelknipper,cortaúñas
+384,Pinzette,tweezers,pincet,pinzas
+385,Lippenpflege,lip balm,lippenbalsem,bálsamo labial
+386,Wimpernzange,eyelash curler,wimperkruller,rizador de pestañas
+387,Abschminkpad,cotton pad,wattenschijfje,disco desmaquillante
+388,Rasierhobel,safety razor,scheermes,maquinilla de afeitar
+389,Rasierpinsel,shaving brush,scheerkwast,brocha de afeitar
+390,Haargummi,hair tie,haarelastiekje,goma para el pelo
+391,Haarbürste,hairbrush,haarborstel,cepillo para el pelo
+392,Kamm,comb,kam,peine
+393,Wundcreme,antiseptic cream,wondcrème,crema antiséptica
+394,Mundspülung,mouthwash,mondwater,enjuague bucal
+395,Bimsstein,pumice stone,puimsteen,piedra pómez
