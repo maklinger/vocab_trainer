@@ -1,0 +1,101 @@
+word_id,german,english,dutch,spanish
+1,Schneebesen,whisk,garde,batidor
+2,Nudelholz,rolling pin,deegroller,rodillo
+3,Sieb,colander,vergiet,colador
+4,Pfannenwender,spatula,spatel,espátula
+5,Reibe,grater,rasp,rallador
+6,Schöpfkelle,ladle,soeplepel,cucharón
+7,Korkenzieher,corkscrew,kurkentrekker,sacacorchos
+8,Dosenöffner,can opener,blikopener,abrelatas
+9,Schneidebrett,chopping board,snijplank,tabla de cortar
+10,Wasserkocher,kettle,waterkoker,hervidor
+11,Staubsauger,vacuum cleaner,stofzuiger,aspiradora
+12,Wäschekorb,laundry basket,wasmand,cesto de ropa
+13,Bügeleisen,iron,strijkijzer,plancha
+14,Türklinke,door handle,deurklink,manilla
+15,Fensterladen,shutter,luik,contraventana
+16,Briefkasten,letterbox,brievenbus,buzón
+17,Treppengeländer,banister,trapleuning,barandilla
+18,Lichtschalter,light switch,lichtschakelaar,interruptor
+19,Steckdose,power socket,stopcontact,enchufe
+20,Vorhang,curtain,gordijn,cortina
+21,Abfluss,drain,afvoer,desagüe
+22,Schublade,drawer,lade,cajón
+23,Regal,shelf,plank,estante
+24,Kissen,cushion,kussen,cojín
+25,Decke,blanket,deken,manta
+26,Wecker,alarm clock,wekker,despertador
+27,Spiegel,mirror,spiegel,espejo
+28,Seife,soap,zeep,jabón
+29,Handtuch,towel,handdoek,toalla
+30,Zahnbürste,toothbrush,tandenborstel,cepillo de dientes
+31,Schnuller,dummy/pacifier,fopspeen,chupete
+32,Windel,nappy/diaper,luier,pañal
+33,Kinderwagen,pram,kinderwagen,cochecito
+34,Lätzchen,bib,slabbetje,babero
+35,Rassel,rattle,rammelaar,sonajero
+36,Stubenwagen,Moses basket,wiegje,moisés
+37,Babyphone,baby monitor,babyfoon,vigilabebés
+38,Hochstuhl,highchair,kinderstoel,trona
+39,Laufstall,playpen,box,parque infantil
+40,Schnullerkette,dummy clip,speenkoord,cadena de chupete
+41,Igel,hedgehog,egel,erizo
+42,Dachs,badger,das,tejón
+43,Luchs,lynx,lynx,lince
+44,Otter,otter,otter,nutria
+45,Elch,moose,eland,alce
+46,Wildschwein,wild boar,everzwijn,jabalí
+47,Steinadler,golden eagle,steenarend,águila real
+48,Weißstorch,white stork,ooievaar,cigüeña blanca
+49,Feuersalamander,fire salamander,vuursalamander,salamandra común
+50,Maulwurf,mole,mol,topo
+51,Eichhörnchen,squirrel,eekhoorn,ardilla
+52,Fledermaus,bat,vleermuis,murciélago
+53,Buntspecht,great spotted woodpecker,grote bonte specht,pico picapinos
+54,Kreuzotter,adder,adder,víbora
+55,Hermelin,stoat/ermine,hermelijn,armiño
+56,Fingerhut,thimble,vingerhoed,dedal
+57,Ohrwurm,earworm,oorwurm,pegadizo
+58,Kopfkino,mind's eye,hoofdbioscoop,cine mental
+59,Dachboden,attic,zolder,desván
+60,Pflaster,plaster/band-aid,pleister,tirita
+61,Feierabend,end of workday,einde werkdag,fin de jornada
+62,Umweg,detour,omweg,rodeo
+63,Kaugummi,chewing gum,kauwgom,chicle
+64,Taschenmesser,penknife,zakmes,navaja
+65,Strohhalm,straw,rietje,pajita
+66,Briefmarke,stamp,postzegel,sello
+67,Schaukel,swing,schommel,columpio
+68,Pflasterstein,cobblestone,klinker,adoquín
+69,Taschenlampe,torch/flashlight,zaklamp,linterna
+70,Regenschirm,umbrella,paraplu,paraguas
+71,Zapfenstreich,lights out/tattoo,taptoe,toque de queda
+72,Zungenbrecher,tongue twister,tongbreker,trabalenguas
+73,Schmetterling,butterfly,vlinder,mariposa
+74,Glühwürmchen,firefly,vuurvliegje,luciérnaga
+75,Mittagsschlaf,afternoon nap,middagdutje,siesta
+76,Katzenjammer,hangover/remorse,kater,resaca
+77,Frühlingsgefühle,spring feelings,lentekriebels,amor primaveral
+78,Waldeinsamkeit,forest solitude,bosstilte,soledad del bosque
+79,Doppelgänger,double/lookalike,dubbelganger,doble
+80,Torschlusspanik,last-chance panic,sluitingstijdangst,pánico al cierre
+81,Gießkanne,watering can,gieter,regadera
+82,Schubkarre,wheelbarrow,kruiwagen,carretilla
+83,Rasenmäher,lawnmower,grasmaaier,cortacésped
+84,Vogelhaus,bird box,vogelhuisje,casita de pájaros
+85,Kompost,compost,compost,compost
+86,Hängematte,hammock,hangmat,hamaca
+87,Gartenzaun,garden fence,tuinhek,valla del jardín
+88,Blumentopf,flower pot,bloempot,maceta
+89,Sonnenuhr,sundial,zonnewijzer,reloj de sol
+90,Vogelbad,bird bath,vogelbad,baño para pájaros
+91,Hosenträger,braces/suspenders,bretels,tirantes
+92,Fäustlinge,mittens,wanten,manoplas
+93,Schürze,apron,schort,delantal
+94,Reißverschluss,zip/zipper,rits,cremallera
+95,Schnürsenkel,shoelace,veters,cordones
+96,Knopfloch,buttonhole,knoopsgat,ojal
+97,Gürtelschnalle,belt buckle,gesp,hebilla
+98,Manchettenknopf,cufflink,manchetknoop,gemelo
+99,Strickjacke,cardigan,vest,cárdigan
+100,Schiebermütze,flat cap,pet,gorra plana
